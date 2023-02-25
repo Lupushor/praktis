@@ -1,0 +1,18 @@
+#root {
+    display: flex;
+    height: 100vh;
+}
+
+.left {
+    width: 40%;
+    height: 100%;
+    background-color: bisque;
+    padding: 20px;
+}
+
+.right {
+    width: 60%;
+    height: 100%;
+    background-color: aquamarine;
+    padding: 20px;
+}
